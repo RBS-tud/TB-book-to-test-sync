@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to the Book to Test: _Sync_
 
-_This is the first page the student will see when opening the url._
+_The purpoese of this book is to test the GitHub to GitLab mirroring method for syncing changes between two repos_
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. There will be content here eventually. 
